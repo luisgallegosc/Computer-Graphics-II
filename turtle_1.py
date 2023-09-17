@@ -42,7 +42,7 @@ def main():
     t.up()
     t.back(200)
     t.down()
-    t.speed(9)
+    t.speed(1)
     dibujarSistemaL(t, inst, 60, 5)  # dibuja la imagen
     # angulo 60, longitud de segmento 5
 
